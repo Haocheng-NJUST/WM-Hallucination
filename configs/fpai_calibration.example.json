@@ -1,0 +1,19 @@
+{
+  "method": "KGW",
+  "entries": [
+    {
+      "detectability_min": 0.0,
+      "detectability_max": 0.6,
+      "position_min": 0.0,
+      "position_max": 0.33,
+      "lambda": 0.4
+    },
+    {
+      "detectability_min": 0.6,
+      "detectability_max": 1.0,
+      "position_min": 0.33,
+      "position_max": 1.0,
+      "lambda": 0.9
+    }
+  ]
+}

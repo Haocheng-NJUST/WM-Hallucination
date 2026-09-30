@@ -1,0 +1,4 @@
+{"sample_id":"sample-001","watermark_method":"KGW","iteration":0,"variant":"unwatermarked","factual_label":"supported","notes":"Example structured label only."}
+{"sample_id":"sample-001","watermark_method":"KGW","iteration":0,"variant":"watermarked","factual_label":"supported","notes":"Example structured label only."}
+{"sample_id":"sample-002","watermark_method":"KGW","iteration":0,"variant":"unwatermarked","factual_label":"supported","notes":"Example structured label only."}
+{"sample_id":"sample-002","watermark_method":"KGW","iteration":0,"variant":"watermarked","factual_label":"supported","notes":"Example structured label only."}
